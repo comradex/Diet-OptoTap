@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Diet-OptoTap-Footprints")(type "KiCad")(uri "${KIPRJMOD}/Diet-OptoTap-Footprints.pretty")(options "")(descr ""))
+)
